@@ -20,17 +20,18 @@ h1{
 }
 .logo{
     position: absolute;
-    top: 8px;
-    left:16px;
+    top: 10px;
+    left:20px;
+    right: 5px;
     width: 85%;
     margin: auto;
-    padding: 35px;
+    padding: 5px;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 .sign{
-    width: 120px;
+    width: 200px;
     cursor: pointer;
 }
 .logo ul li{
