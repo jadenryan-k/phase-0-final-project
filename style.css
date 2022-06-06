@@ -20,8 +20,8 @@ h1{
 }
 .logo{
     position: absolute;
-    top: 10px;
-    left:20px;
+    top: 5px;
+    left: 25px;
     right: 5px;
     width: 85%;
     margin: auto;
@@ -89,3 +89,6 @@ button {
     cursor: pointer;
     position: relative;
 }   
+.about p{
+    font-size: 18px
+}
