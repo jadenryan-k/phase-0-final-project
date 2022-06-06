@@ -89,7 +89,7 @@ button {
     position: relative;
 }   
 span{
-    background:black;
+    background:none;
     height: 100%;
     width: 0;
     border-radius: 25px;
